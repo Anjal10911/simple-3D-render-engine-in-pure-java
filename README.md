@@ -20,7 +20,7 @@ Since this is a Java Swing application, you can run it locally:
 
 Clone the Repository
 
-git clone https://github.com/Anjal10911/FancyCubeRenderer.git cd FancyCubeRenderer
+git clone https://github.com/Anjal10911/FancyCubeRenderer.gitcd FancyCubeRenderer
 
 # Compile the Java File
 
