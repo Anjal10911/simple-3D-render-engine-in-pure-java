@@ -12,25 +12,7 @@ Transparent Cube Edges: Adds a futuristic effect.
 
 Resizable Window: Adjust the size of the frame without affecting functionality.
 
-## Live Demo
-
-Since this is a Java Swing application, you can run it locally:
-
-# Steps to Run:
-
-Clone the Repository
-
-git clone https://github.com/Anjal10911/FancyCubeRenderer.gitcd FancyCubeRenderer
-
-# Compile the Java File
-
-javac FancyCubeRenderer.java
-
-# Run the Application
-
-java FancyCubeRenderer
-
-Requirements
+# Requirements
 
 Java 8 or later installed
 
